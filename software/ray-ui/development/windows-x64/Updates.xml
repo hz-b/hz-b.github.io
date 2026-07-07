@@ -10,15 +10,15 @@
   <ReleaseDate>2026-07-07</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="27358973" OS="Any" UncompressedSize="98884356"/>
+  <UpdateFile CompressedSize="27358901" OS="Any" UncompressedSize="98884356"/>
   <DownloadableArchives>data.7z,licenses.7z,platforms.7z,plugins.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="RAY-UI-License.txt" name="RAY-UI License Agreement"/>
    <License file="lgpl-2.1.txt" name="Licence for quadmath library"/>
    <License file="lgpl-3.0.txt" name="Licence for Qt libraries"/>
   </Licenses>
-  <SHA1>9d36d1888a033a62a4105ba93b6dad310b4d76a7</SHA1>
+  <SHA1>e80394f592cc3b94ed0a37f2afc1a6dcae701721</SHA1>
  </PackageUpdate>
- <SHA1>a2945771aae0fd5a052abe300f3e1e095dc93e17</SHA1>
- <MetadataName>2026-07-07-1433_meta.7z</MetadataName>
+ <SHA1>563d1bafc5022c2f4dcf87c882e2d689264f482e</SHA1>
+ <MetadataName>2026-07-07-1437_meta.7z</MetadataName>
 </Updates>
