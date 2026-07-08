@@ -2,23 +2,23 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>825bff9fce917e8fdd702f172a417a78d954646a</SHA1>
- <MetadataName>2026-03-24-1745_meta.7z</MetadataName>
+ <SHA1>517800a3387cd15709fe8b61d744f5c814f49289</SHA1>
+ <MetadataName>2026-07-07-1823_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>de.hzb.rayui.core</Name>
   <DisplayName>RAY-UI Core Component</DisplayName>
   <Description>Install this to use RAY-UI.</Description>
-  <Version>161.227</Version>
-  <ReleaseDate>2026-03-24</ReleaseDate>
+  <Version>161.367</Version>
+  <ReleaseDate>2026-07-07</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="33666964" OS="Any" UncompressedSize="123545789"/>
+  <UpdateFile CompressedSize="33090765" OS="Any" UncompressedSize="120002260"/>
   <DownloadableArchives>data.7z,Licenses.7z,Ray-UI.app.7z</DownloadableArchives>
   <Licenses>
    <License file="RAY-UI-License.txt" name="RAY-UI License Agreement"/>
    <License file="lgpl-2.1.txt" name="Licence for quadmath library"/>
    <License file="lgpl-3.0.txt" name="Licence for Qt libraries"/>
   </Licenses>
-  <SHA1>56f6a71d640597d4731180f97315843d13d6103a</SHA1>
+  <SHA1>9de87541c994425750cf12c33533a4ebefa83feb</SHA1>
  </PackageUpdate>
 </Updates>
